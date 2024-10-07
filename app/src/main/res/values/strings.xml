@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application nueva</string>
+    <string name="image_description">Imagen de bienvenida al aplicativo</string>
+    <string name="buttonWel_hint">ENTRAR</string>
+    <string name="user_hint">Nombre de usuario</string>
+    <string name="password_hint">Ingresa tu contraseña</string>
+    <string name="button_hint">INGRESAR</string>
+    <string name="regis_hint">No estas registrado? Registrate aqui</string>
+    <string name="name_hint">Ingresa tu nombre</string>
+    <string name="Last_hint">Ingresa tus apellidos</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="rectify_hint">Comprueba tu contraseña</string>
+    <string name="buttonRegis_hint">REGISTRAR</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Telefono</string>
+</resources>
